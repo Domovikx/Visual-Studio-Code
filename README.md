@@ -1,7 +1,5 @@
 # Visual Studio Code (vs code) настройка и плагины
-
-## где скачать vs code :
-Страница загрузки : [Download Visual Studio Code](https://code.visualstudio.com/download)
+где скачать vs code (страница загрузки) : [Download Visual Studio Code](https://code.visualstudio.com/download)
 
 ## плагины:
 1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - 
