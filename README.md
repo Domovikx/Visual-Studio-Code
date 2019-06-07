@@ -36,7 +36,7 @@ clo→	console log object with name console.log('object :', object);
 Иконки для кода Visual Studio <br>
 ![img](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
 
-### SCSS
+## SCSS
 1. [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - 
 Расширение VSCode, которое поможет вам скомпилировать / преобразовать ваши файлы SASS / SCSS в файлы CSS в режиме реального времени с перезагрузкой браузера.<br>
 ![img](https://github.com/ritwickdey/vscode-live-sass-compiler/raw/master/images/Screenshot/AnimatedPreview.gif)
