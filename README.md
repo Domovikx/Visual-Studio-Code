@@ -8,14 +8,8 @@
 0. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - 
 Автоматически переименовывает парный тег HTML / XML, так же, как это делает Visual Studio IDE <br>
 ![img](https://github.com/formulahendry/vscode-auto-rename-tag/raw/master/images/usage.gif)
-0. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) -
-Улучшите комментирование кода, добавив аннотации с предупреждением, информацией, TODO и т.д. <br>
-![img](https://github.com/aaron-bond/better-comments/raw/master/images/better-comments.PNG)
 0. [CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) - 
 Это расширение добавляет форматирование в CSS <br>
-0. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - 
-Разрешить просмотр идентификатора CSS и строк класса в виде определений из HTML-файлов для соответствующего CSS. Позволяет взглянуть и перейти к определению <br>
-![img](https://github.com/pranaygp/vscode-css-peek/raw/master/working.gif)
 0. [Darcula Theme](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula) - 
 Расширение темы для VS Code на основе темы Darcula из IDE Jetbrains <br>
 ![img](https://github.com/rokoroku/vscode-theme-darcula/raw/master/screenshot.png)
