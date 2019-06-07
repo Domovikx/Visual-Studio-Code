@@ -3,33 +3,33 @@
 ## где скачать vs code :
 Страница загрузки : [Download Visual Studio Code](https://code.visualstudio.com/download)
 
-## дополнения для vsc :
+## плагины:
 1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - 
-Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text <br>
+Автоматически добавлять закрывающий тег HTML / XML, так же, как Visual Studio IDE или Sublime Text. <br>
 0. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - 
-Automatically rename paired HTML/XML tag, same as Visual Studio IDE does <br>
+Автоматически переименовывает парный тег HTML / XML, так же, как это делает Visual Studio IDE <br>
 0. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) -
-Improve your code commenting by annotating with alert, informational, TODOs, and more <br>
+Улучшите комментирование кода, добавив аннотации с предупреждением, информацией, TODO и т.д. <br>
 0. [CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) - 
-This extension adds formatting to CSS <br>
+Это расширение добавляет форматирование в CSS <br>
 0. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - 
-Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition<br>
+Разрешить просмотр идентификатора CSS и строк класса в виде определений из HTML-файлов для соответствующего CSS. Позволяет взглянуть и перейти к определению <br>
 0. [Darcula Theme](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula) - 
-A theme extension for VS Code based on Darcula theme from Jetbrains IDEs <br>
+Расширение темы для VS Code на основе темы Darcula из IDE Jetbrains <br>
 0. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - 
-Integrates ESLint JavaScript into VS Code <br>
+Интегрирует ESLint JavaScript в VS Code <br>
 0. [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - 
-CSS support for HTML documents <br>
+Поддержка CSS для документов HTML <br>
 0. [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - 
-CSS class name completion for the HTML class attribute based on the definitions found in your workspace <br>
+Завершение имени класса CSS для атрибута класса HTML на основе определений, найденных в вашем рабочем пространстве <br>
 0. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - 
-Code snippets for JavaScript in ES6 syntax <br>
+Фрагменты кода для JavaScript в синтаксисе ES6 <br>
 0. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - 
-Launch a development local Server with live reload feature for static & dynamic pages <br>
+Запустите локальный сервер разработки с возможностью оперативной перезагрузки для статических и динамических страниц. <br>
 0. [Log Wrapper](https://marketplace.visualstudio.com/items?itemName=chrisvltn.log-wrapper-for-vscode) -
-Prints a debug command for the selected code and language <br>
+Распечатывает команду отладки для выбранного кода и языка <br>
 0. [VScode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - 
-Icons for Visual Studio Code <br>
+Иконки для кода Visual Studio <br>
 
 ### SCSS
 1. [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - 
