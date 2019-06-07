@@ -4,30 +4,43 @@
 ## плагины:
 1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - 
 Автоматически добавлять закрывающий тег HTML / XML, так же, как Visual Studio IDE или Sublime Text. <br>
+![img](https://github.com/formulahendry/vscode-auto-close-tag/raw/master/images/usage.gif)
 0. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - 
 Автоматически переименовывает парный тег HTML / XML, так же, как это делает Visual Studio IDE <br>
+![img](https://github.com/formulahendry/vscode-auto-rename-tag/raw/master/images/usage.gif)
 0. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) -
 Улучшите комментирование кода, добавив аннотации с предупреждением, информацией, TODO и т.д. <br>
+![img](https://github.com/aaron-bond/better-comments/raw/master/images/better-comments.PNG)
 0. [CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) - 
 Это расширение добавляет форматирование в CSS <br>
 0. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - 
 Разрешить просмотр идентификатора CSS и строк класса в виде определений из HTML-файлов для соответствующего CSS. Позволяет взглянуть и перейти к определению <br>
+![img](https://github.com/pranaygp/vscode-css-peek/raw/master/working.gif)
 0. [Darcula Theme](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula) - 
 Расширение темы для VS Code на основе темы Darcula из IDE Jetbrains <br>
+![img](https://github.com/rokoroku/vscode-theme-darcula/raw/master/screenshot.png)
 0. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - 
 Интегрирует ESLint JavaScript в VS Code <br>
 0. [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - 
 Поддержка CSS для документов HTML <br>
 0. [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - 
 Завершение имени класса CSS для атрибута класса HTML на основе определений, найденных в вашем рабочем пространстве <br>
+![img](https://i.imgur.com/5crMfTj.gif)
 0. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - 
 Фрагменты кода для JavaScript в синтаксисе ES6 <br>
+clg→	console log console.log(object)<br>
+clo→	console log object with name console.log('object :', object);
 0. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - 
 Запустите локальный сервер разработки с возможностью оперативной перезагрузки для статических и динамических страниц. <br>
+![img](https://github.com/ritwickdey/vscode-live-server/raw/master/images/Screenshot/vscode-live-server-animated-demo.gif)
+![img](https://github.com/ritwickdey/vscode-live-server/raw/master/images/Screenshot/vscode-live-server-explorer-menu-demo-1.gif)
 0. [Log Wrapper](https://marketplace.visualstudio.com/items?itemName=chrisvltn.log-wrapper-for-vscode) -
 Распечатывает команду отладки для выбранного кода и языка <br>
+Нажав Ctrl + Shift + Q, вы можете распечатать сообщение журнала для разных языков, отформатированных, разборчивых и с отступом.<br>
+![img](https://github.com/chrisvltn/vs-code-log-wrapper/raw/master/images/demo.gif)
 0. [VScode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - 
 Иконки для кода Visual Studio <br>
+![img](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
 
 ### SCSS
 1. [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - 
