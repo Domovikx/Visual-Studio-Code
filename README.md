@@ -1,5 +1,4 @@
-# Visual Studio Code (vs code) настройка
-visual code настройка, visual code плагины
+# Visual Studio Code (vs code) настройка и плагины
 
 ## где скачать vs code :
 Страница загрузки : [Download Visual Studio Code](https://code.visualstudio.com/download)
