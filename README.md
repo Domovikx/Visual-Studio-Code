@@ -39,20 +39,29 @@ clo→	console log object with name console.log('object :', object);
 ### SCSS
 1. [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - 
 Расширение VSCode, которое поможет вам скомпилировать / преобразовать ваши файлы SASS / SCSS в файлы CSS в режиме реального времени с перезагрузкой браузера.<br>
+![img](https://github.com/ritwickdey/vscode-live-sass-compiler/raw/master/images/Screenshot/AnimatedPreview.gif)
 0. [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) - Подсветка синтаксиса с отступом Sass, автозаполнение и фрагменты для VSCode<br>
+![img](https://raw.githubusercontent.com/robinbentley/vscode-sass-indented/master/images/screenshot.png)
 0. [SCSS Formatter](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter) - 
 Расширение кода Visual Studio для форматирования SCSS<br>
+![img](https://github.com/sibiraj-s/vscode-scss-formatter/raw/master/assets/scss-format.gif)
 
 ## дополнения для chrome:
 1. [PerfectPixel by WellDoneCode](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) -
 Это расширение помогает Вам разрабатывать сайт с попиксельной точностью <br>
+![img](https://lh3.googleusercontent.com/M6D5Jv-U2oUYp6z_JJxG2FqJU0MbcqwVgKAlSfBconLelGMNKhDKpNlk8UT0ECODMp4BOZGv1A=w640-h400-e365)
 0. [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) - 
 Нарисовать линейку, чтобы получить пиксельные размеры и позиционирование, и измерить элементы на любой веб-странице <br>
+![img](https://lh3.googleusercontent.com/N82J_E_kEjGCv4cveffWGdV0fj0haQv7x46ZcwDfNxh-tDrRvoUxr_HQZaE78bHpXkNPPDN38A=w640-h400-e365)
 0. [ImTranslator: Переводчик, Словарь, Голос](https://chrome.google.com/webstore/detail/imtranslator-translator-d/noaijdpnepcgjemiklgfkcfbkokogabh) - 
 ImTranslator выполняет перевод выделенного текста (5,000 знаков), слов (Dictionary), фраз и веб-страниц на 91 языке, используя 3 разных переводчика (Google, Microsoft Bing, Translator) <br>
+![img](https://lh3.googleusercontent.com/ombpEzItkeJrRI3X1o_cfugiCTmMsbHYFuWN-Lnri8iwx9TRXvcXFN1QVQQr7OcO5pS313qc=w640-h400-e365)
 0. [Google Переводчик](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 
 С помощью этого расширения, разработанного командой Google Переводчика, можно быстро переводить веб-страницы <br>
-0. [Joxi Сделай скриншот экрана](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - 
+![img](https://lh3.googleusercontent.com/0m8JW2q7W8Q0HdUDiahs8gaoYJ2H_WHmNlo3475gGAxFiQ1kfvvwE_du5XGZxz3n6xncoW0q=w640-h400-e365)
+0. [Joxi Сделай скриншот экрана](https://chrome.google.com/webstore/detail/joxi-full-page-screen-cap/jhcdlkgjiehgpnpolkbnmpffjodigbkb) - 
 Быстрое приложение для скриншотов в браузере. Со скроллом страницы <br>
+![img](https://lh3.googleusercontent.com/v-zXx5jxXM7ubGc_A4EmZSN-LoRFNCgnsoGOyX6I-iLyI7C9ZxNN8cPvoSoFcKiohb_jsace3ao=w640-h400-e365)
 0. [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) - 
 Eye Dropper - это расширение с открытым исходным кодом, которое позволяет выбирать цвета на веб-страницах, в палитре цветов и в личной истории цветов <br>
+![img](https://lh3.googleusercontent.com/AMQwUBOyto6Bx_BmWcXhIhOJmiF_wBDHrBaUGYlv7_7t0SnawoLMuHUGVUoryI-ZWirmGVVtag=w640-h400-e365)
