@@ -46,6 +46,10 @@ clo→	console log object with name console.log('object :', object);
 Расширение кода Visual Studio для форматирования SCSS<br>
 ![img](https://github.com/sibiraj-s/vscode-scss-formatter/raw/master/assets/scss-format.gif)
 
+## Markdown
+1. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+0. [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
 ## дополнения для chrome:
 1. [PerfectPixel by WellDoneCode](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) -
 Это расширение помогает Вам разрабатывать сайт с попиксельной точностью <br>
