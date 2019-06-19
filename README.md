@@ -35,6 +35,8 @@ clo→	console log object with name console.log('object :', object);
 0. [VScode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - 
 Иконки для кода Visual Studio <br>
 ![img](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
+0. [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)<br>
+![img](https://editorconfig.gallerycdn.vsassets.io/extensions/editorconfig/editorconfig/0.13.0/1550128349873/Microsoft.VisualStudio.Services.Icons.Default)
 
 ## SCSS
 1. [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - 
