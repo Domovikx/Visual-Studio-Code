@@ -9,6 +9,7 @@ Visual Studio Code - https://code.visualstudio.com/download
 - Code Spell Checker - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 - VScode-icons - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 - Live Server - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+- Darcula Theme - https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula
 
 ## плагины:
 1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - 
