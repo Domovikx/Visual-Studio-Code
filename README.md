@@ -14,6 +14,7 @@ Visual Studio Code - https://code.visualstudio.com/download
 - VScode-icons - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 - Live Server - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 - Darcula Theme - https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula
+- Bracket Pair Colorizer 2 - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
 
 ## плагины:
 1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - 
