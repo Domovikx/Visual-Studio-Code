@@ -13,8 +13,17 @@ Visual Studio Code - https://code.visualstudio.com/download
 - Code Spell Checker - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 - VScode-icons - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 - Live Server - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-- Darcula Theme - https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula
 - Bracket Pair Colorizer 2 - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+
+### примечение:
+- В Ubuntu, да и в других дистрибутивах Java поставляется в двух редакциях:   
+JDK или Java Development Kit - содержит полную версию Java, необходимую для разработки на этом языке;   
+JRE или Java Runtime Environment - содержит только окружение для выполнения программ.   
+https://losst.ru/ustanovka-java-v-ubuntu-18-04   
+Для установки JRE в Ubuntu выполните: 
+```
+$ sudo apt install openjdk-8-jre
+```   
 
 ## плагины:
 1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - 
