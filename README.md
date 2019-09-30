@@ -1,5 +1,13 @@
 # Visual Studio Code (vs code) настройка и плагины
-где скачать vs code (страница загрузки) : [Download Visual Studio Code](https://code.visualstudio.com/download)
+Visual Studio Code - https://code.visualstudio.com/download 
+
+## ставлю сейчас:
+- Beautify - https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+- ESLint - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+- W3C Validation - https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation
+- CSSTree validator - https://marketplace.visualstudio.com/items?itemName=smelukov.vscode-csstree 
+- Code Spell Checker - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+- VScode-icons - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
 ## плагины:
 1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - 
