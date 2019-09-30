@@ -2,7 +2,11 @@
 Visual Studio Code - https://code.visualstudio.com/download 
 
 ## ставлю сейчас:
-- Beautify - https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+- Beautify - https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify <br>
+ The code formatting is available in Visual Studio Code through the following shortcuts: <br>
+ On Windows Shift + Alt + F <br>
+ On Mac Shift + Option + F <br>
+ On Ubuntu Ctrl + Shift + I 
 - ESLint - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 - W3C Validation - https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation
 - CSSTree validator - https://marketplace.visualstudio.com/items?itemName=smelukov.vscode-csstree 
