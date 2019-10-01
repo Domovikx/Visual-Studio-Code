@@ -13,7 +13,9 @@ Visual Studio Code - https://code.visualstudio.com/download
 - Code Spell Checker - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 - VScode-icons - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 - Live Server - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-- Bracket Pair Colorizer 2 - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+- Bracket Pair Colorizer 2 - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer   
+для отключения белых вертикальных полос в редакторе:   
+file > preferences > settings > editor.renderIndentGuides (отключить)
 
 ### примечение:
 - В Ubuntu, да и в других дистрибутивах Java поставляется в двух редакциях:   
