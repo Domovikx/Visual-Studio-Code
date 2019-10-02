@@ -83,8 +83,7 @@ Eye Dropper - это расширение с открытым исходным �
 - выключение компа по рассписанию   
 http://blog.sedicomm.com/2017/07/24/kak-dobavit-zadanie-v-planirovshhik-cron-v-linux-unix/   
 http://ubuntunews.ru/apps/easyshutdown-ubuntu-off-after-specific-time.html   
+https://help.ubuntu.ru/wiki/cron   
 каждый день в 21:00   
-```
-$ crontab –e   
-0 21 * * 0 /usr/bin/shutdown -H now   
-```
+crontab -e   
+0 21 * * * /usr/bin/shutdown -H now   
