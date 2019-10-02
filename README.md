@@ -87,4 +87,6 @@ https://help.ubuntu.ru/wiki/cron
 https://losst.ru/spyashhij-rezhim-v-ubuntu - команды сон
 каждый день в 21:00   
 crontab -e   
-0 21 * * * /usr/bin/shutdown -H now   
+0 21 * * * /usr/bin/shutdown -H now 
+
+systemctl suspend - сон
