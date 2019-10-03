@@ -93,4 +93,9 @@ crontab -e
 - https://losst.ru/ustanovka-node-js-ubuntu-18-04 - ставим nodejs   
 
 ## git
-- https://old.calculate-linux.org/main/ru/git - команды
+- https://old.calculate-linux.org/main/ru/git - команды   
+- https://snapcraft.io/install/github-desktop/ubuntu - How to install GitHub Desktop
+on Ubuntu   
+sudo apt update   
+sudo apt install snapd   
+sudo snap install github-desktop --beta --classic   
