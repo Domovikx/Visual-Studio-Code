@@ -91,3 +91,6 @@ crontab -e
  - systemctl suspend - сон
 
 - https://losst.ru/ustanovka-node-js-ubuntu-18-04 - ставим nodejs   
+
+## git
+- https://old.calculate-linux.org/main/ru/git - команды
