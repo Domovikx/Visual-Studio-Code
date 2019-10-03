@@ -16,6 +16,7 @@ Visual Studio Code - https://code.visualstudio.com/download
 - Bracket Pair Colorizer 2 - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer   
 для отключения белых вертикальных полос в редакторе:   
 file > preferences > settings > editor.renderIndentGuides (отключить)
+- Darcula Theme - https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula
 
 ### примечение:
 - В Ubuntu, да и в других дистрибутивах Java поставляется в двух редакциях:   
@@ -39,7 +40,6 @@ Trouble Installing?
 The goal of this spell checker is to help catch common spelling errors while keeping the number of false positives low.
 0. ~~[CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) - 
 Это расширение добавляет форматирование в CSS~~
-0. [Darcula Theme](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula) - Расширение темы для VS Code на основе темы Darcula из IDE Jetbrains 
 0. [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - This plugin attempts to override user/workspace settings with settings found in .editorconfig files. No additional or vscode-specific files are required. As with any EditorConfig plugin, if root=true is not specified, EditorConfig will continue to look for an .editorconfig file outside of the project.
 1. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Интегрирует ESLint JavaScript в VS Code 
 0. [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - Поддержка CSS для документов HTML 
