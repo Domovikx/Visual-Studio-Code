@@ -90,4 +90,4 @@ crontab -e
 0 21 * * * /usr/bin/shutdown -H now 
  - systemctl suspend - сон
 
-- https://nodejs.org/en/ - ставим nodejs
+- https://losst.ru/ustanovka-node-js-ubuntu-18-04 - ставим nodejs   
