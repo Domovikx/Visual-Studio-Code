@@ -66,19 +66,16 @@ user или workspace(это) > Live Sass Compiler > liveSassCompile:settings>fo
 добавляем настройки по образцу, можно все:   
 ```json
     "liveSassCompile.settings.formats":[
-        // This is Default.
         {
             "format": "expanded",
             "extensionName": ".css",
             "savePath": null
         },
-        // You can add more
         {
             "format": "compressed",
             "extensionName": ".min.css",
             "savePath": "/dist/css"
         },
-        // More Complex
         {
             "format": "compressed",
             "extensionName": ".min.css",
