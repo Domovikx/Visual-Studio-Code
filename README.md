@@ -56,11 +56,37 @@ clo→	console log object with name console.log('object :', object)
 0. [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 ## SCSS
-1. [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - 
-Расширение VSCode, которое поможет вам скомпилировать / преобразовать ваши файлы SASS / SCSS в файлы CSS в режиме реального времени с перезагрузкой браузера.
-0. [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) - Подсветка синтаксиса с отступом Sass, автозаполнение и фрагменты для VSCode
-0. [SCSS Formatter](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter) - 
-Расширение кода Visual Studio для форматирования SCSS
+- Live Sass Compiler - https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
+- rest css - https://meyerweb.com/eric/tools/css/reset/reset200802.css   
+- как настроить scss   
+https://github.com/ritwickdey/vscode-live-sass-compiler/blob/master/docs/settings.md   
+https://courses.kevinpowell.co/courses/master-sass/10996-the-setup/140971-sass-live-compiler-and-live-server-settings   
+file > preferences > settings      
+user или workspace(это) > Live Sass Compiler > liveSassCompile:settings>formats   
+добавляем настройки по образцу, можно все:   
+```json
+    "liveSassCompile.settings.formats":[
+        // This is Default.
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": null
+        },
+        // You can add more
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/dist/css"
+        },
+        // More Complex
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "~/../css/"
+        }
+    ]
+```
+
 ## Markdown
 1. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 0. [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
