@@ -2,6 +2,7 @@
 Visual Studio Code - https://code.visualstudio.com/download 
 
 ## ставлю сейчас:
+- Settings Sync - https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 - Beautify - https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify <br>
  The code formatting is available in Visual Studio Code through the following shortcuts: <br>
  On Windows Shift + Alt + F <br>
