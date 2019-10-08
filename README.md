@@ -116,7 +116,8 @@ crontab -e
 - https://losst.ru/ustanovka-node-js-ubuntu-18-04 - ставим nodejs   
 
 ## git
-https://help.github.com/en/articles/about-ssh - как работать с гитом без пароля, через ssh УДАЧИ !
+- https://help.github.com/en/articles/about-ssh - как работать с гитом без пароля, через ssh УДАЧИ !
+- https://www.gitkraken.com/ - gitkraken альтернатива
 
 ## old
 - https://old.calculate-linux.org/main/ru/git - команды   
