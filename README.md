@@ -12,7 +12,7 @@ Visual Studio Code - https://code.visualstudio.com/download
   - ESLint - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
   - HTMLHint - https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint
   - W3C Validation - https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation 
-- CSSTree validator - https://marketplace.visualstudio.com/items?itemName=smelukov.vscode-csstree 
+  - CSSTree validator - https://marketplace.visualstudio.com/items?itemName=smelukov.vscode-csstree 
 - Code Spell Checker - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 - VScode-icons - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 - Live Server - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
