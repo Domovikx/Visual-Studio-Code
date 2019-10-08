@@ -126,3 +126,6 @@ on Ubuntu
 sudo apt update   
 sudo apt install snapd   
 sudo snap install github-desktop --beta --classic   
+
+## different
+- chrome - https://www.google.by/chrome/ 
