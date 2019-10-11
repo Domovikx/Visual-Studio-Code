@@ -106,6 +106,7 @@ Eye Dropper - это расширение с открытым исходным �
 Просто кликните на слово, чтобы посмотреть его перевод в контексте читаемого текста  (словосечения и фразы, которые его содержат). 
 
 ## ubuntu
+- http://releases.ubuntu.com/ - Ubuntu releases
 - выключение компа по рассписанию   
 http://blog.sedicomm.com/2017/07/24/kak-dobavit-zadanie-v-planirovshhik-cron-v-linux-unix/   
 http://ubuntunews.ru/apps/easyshutdown-ubuntu-off-after-specific-time.html   
